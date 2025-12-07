@@ -198,9 +198,10 @@ The network is:
 
 ✔ Optimized for hotel operations
 
-```
+
 <h2>👤 Developed By</h2>
 
+```
 Rushikesh Sable
 
 📧 rushikeshsable9850@gmail.com
