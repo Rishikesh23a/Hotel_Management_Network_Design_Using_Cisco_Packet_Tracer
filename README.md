@@ -182,3 +182,26 @@ Hotel_Management_Network_Design_Using_Cisco_Packet_Tracer/
 </p>
 
 ---
+
+<h2>🏁 Conclusion</h2>
+
+This project successfully demonstrates how to design a secure, scalable, and efficient Hotel Management Network using Cisco Packet Tracer.
+It follows proper CPS security practices, network segmentation, and encrypted communication methods.
+
+The network is:
+
+✔ Secure
+
+✔ Reliable
+
+✔ Segmented
+
+✔ Optimized for hotel operations
+
+```
+<h2>👤 Developed By</h2>
+
+Rushikesh Sable
+
+📧 rushikeshsable9850@gmail.com
+```
