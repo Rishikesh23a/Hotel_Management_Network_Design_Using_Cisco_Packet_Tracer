@@ -169,21 +169,16 @@ Hotel_Management_Network_Design_Using_Cisco_Packet_Tracer/
 
 ## 📸 Network Topology & Configuration Screenshots
 
-### 🔹 Network Topology Overview
+
 <p align="center">
   <img src="Screenshots/Screenshot%202025-12-07%20105305.png" width="750">
 </p>
 
 ---
 
-### 🔹 VLAN Configuration
+
 <p align="center">
   <img src="Screenshots/Screenshot%202025-12-07%20105316.png" width="750">
 </p>
 
 ---
-
-### 🔹 Wi-Fi / Security Settings
-<p align="center">
-  <img src="Screenshots/Screenshot%202025-12-07%20105339.png" width="750">
-</p>
