@@ -152,3 +152,17 @@ This ensures separate, secure communication and prevents guests from accessing s
 • Firewall rule validation
 
 • User experience & performance testing
+
+<h2>📂 Folder Structure (Recommended)</h2>
+
+```
+Hotel_Management_Network_Design_Using_Cisco_Packet_Tracer/
+│
+├── Screenshots/
+├── .gitattributes
+├── Project File.pkt
+├── Project Reort.pdf
+├── README.md
+└── ppt.pptx
+```
+<h2>📸 Screenshots</h2>
