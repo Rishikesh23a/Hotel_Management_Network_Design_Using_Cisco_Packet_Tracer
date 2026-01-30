@@ -1,5 +1,12 @@
 <h1 align="center">🏨 Hotel Management Network Design Using Cisco Packet Tracer</h1>
 <p align="center"> Secure Network • VLANs • ACL • DHCP • WPA3 • Firewall • CPS Security </p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot 2026-01-31 005714.png" alt="Hotel Management Network Design" width="800">
+</p>
+
+
+
 <h2>📌 Project Overview</h2>
 
 This project focuses on designing a secure and scalable network for a Hotel Management System using Cisco Packet Tracer.
