@@ -5,7 +5,7 @@
   <img src="Screenshots/Screenshot 2026-01-31 005714.png" alt="Hotel Management Network Design" width="800">
 </p>
 
-
+-----
 
 <h2>📌 Project Overview</h2>
 
